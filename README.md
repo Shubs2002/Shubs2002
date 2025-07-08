@@ -12,10 +12,6 @@ Hey there! I'm **Shubham**, a passionate and versatile developer from **Maharash
 💡 Currently working on:  
 - 🛍️ **AadyaCreations** – A classy e-commerce platform (React + MongoDB + JWT Auth)  
 - 🧠 **SmartShelf Offline** – An AI-powered offline inventory desktop app using **Electron.js + Bun**  
-- 💬 **BeyondChats UI** – A modern chatbot setup workflow (ReactJS)  
-- 🔐 **Flask + Auth0 + Neo4j App** – Secure and graph-based web app experiments  
-- 📡 **GraphQL Microservices** – Building type-safe APIs with GraphQL + Node.js  
-- ☁️ **Snowflake Pipelines** – Playing with structured cloud data at scale
 
 ---
 
@@ -66,12 +62,6 @@ A stylish, mobile-first e-commerce platform with user auth, admin management, co
 ### 🔹 [SmartShelf Offline](https://github.com/Shubs2002/Smartshelf-Offline)
 An AI-powered offline inventory manager built with Electron and Bun — perfect for low-connectivity environments.
 
-### 🔹 [GraphSecure](#)
-Prototype combining Flask, Auth0, GraphQL, and Neo4j for secure graph-based user permissions and querying.
-
-### 🔹 [DataJet (Private)](#)
-Snowflake-based pipeline for ingesting structured logs and analytics-ready transformations.
-
 ---
 
 ## 🧠 What I Love
@@ -95,9 +85,8 @@ Snowflake-based pipeline for ingesting structured logs and analytics-ready trans
 
 ## 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/shubham-nakashe)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/shubham-nakashe-01b497219/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:s.d.nakashe2002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8552fd?style=flat&logo=vercel&logoColor=white)](https://aadyacreation.com)
 
 ---
 
